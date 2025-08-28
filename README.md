@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Srivathsa</h1>
 <h3 align="center">Aspiring Data Scientist | Passionate About Data-Driven Solutions | Skilled in Python, Machine Learning, and Big Data</h3>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourusername/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
+
+
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, LLMs, RAG**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SrivathsaTirumala](https://github.com/SrivathsaTirumala)
