@@ -6,14 +6,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
 
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, LLMs, RAG**
-
-- 👨‍💻 All of my projects are available at [https://github.com/SrivathsaTirumala](https://github.com/SrivathsaTirumala)
-
-- 📫 How to reach me **srivathsa180104@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gR6SEbVkt5B1o35h0Fh4TrzxXdn1nQG5/view](https://drive.google.com/file/d/1gR6SEbVkt5B1o35h0Fh4TrzxXdn1nQG5/view)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/srivathsa-tirumala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srivathsa-tirumala/" height="30" width="40" /></a>
