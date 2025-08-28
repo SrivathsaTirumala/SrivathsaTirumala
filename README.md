@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Srivathsa</h1>
 <h3 align="center">Aspiring Data Scientist | Passionate About Data-Driven Solutions | Skilled in Python, Machine Learning, and Big Data</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourusername/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/srivathsa-tirumala/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/SrivathsaTirumala)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=google-chrome)](https://srivathsa-tirumala-portfolio.lovable.app/)
 
 
 <h3 align="left">Connect with me:</h3>
